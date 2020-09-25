@@ -24,3 +24,9 @@ Ex.: $15.55
 3. **/history USD/CAD** - returns an image graph chart which shows the exchange
 rate graph of the selected currency for the last 7 days. The currency data for
 the last 7 days is not cached.
+
+# Execute instructions
+* Use python version: 3.6.9
+* Create virtual environment and execute: pip3 install -r requirements.txt
+* cd into the project directory
+* To run the bot execute: python main.py "<TELEGRAM-TOKEN>"
