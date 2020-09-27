@@ -29,4 +29,4 @@ the last 7 days is not cached.
 * Use python version: 3.6.9
 * Create virtual environment and execute: pip3 install -r requirements.txt
 * cd into the project directory
-* To run the bot execute: python main.py "<TELEGRAM-TOKEN>"
+* To run the bot execute: python main.py "<<TELEGRAM-TOKEN>>"
